@@ -1,5 +1,0 @@
-venv/
-config.py
-.ipynb_checkpoints/
-__pycache__/
-knn_model.pkl
